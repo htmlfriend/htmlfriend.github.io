@@ -1,2 +1,2 @@
-# htmlfriend.github.io
-My new site
+# Yurii html
+My homework task
